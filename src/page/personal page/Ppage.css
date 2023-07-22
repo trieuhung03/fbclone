@@ -1,5 +1,7 @@
 .header-page-container{
     background-color: #242526;
+    background-image: linear-gradient(0deg,rgb(0, 0, 0), 80%, rgba(12, 26, 25, 0.1)), url("./assets/anh bia.jpg");
+    background-size: cover; 
 }
 
 .p5{
