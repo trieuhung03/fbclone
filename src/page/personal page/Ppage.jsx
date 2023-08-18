@@ -26,7 +26,7 @@ function Ppage() {
               <div className="btn">
                 <div className="name-btn">
                   <button type="button" className="btn btn-primary">
-                    + Thêm vào tin
+                    Thêm vào tin
                   </button>
                 </div>
                 <div className="name-btn">
